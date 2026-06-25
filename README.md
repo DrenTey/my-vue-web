@@ -1,8 +1,8 @@
 # Website developed with the help of Vue3 framework.
 
-Recently I decided to update some of the old Responsive Web Designs projects. A friend suggested using Vue3 framework, and I have to say, that I am impressed how much it simplify the work. 
+Recently I decided to update some of the old Responsive Web Designs projects. A friend suggested using Vue3 framework, and I have to say, that I am impressed how much it simplified the work. 
 
-For now, I have placed there four projects (three done during learning RWD with fCC, fourth one done for friends)
+For now, I have placed there four projects (three done during learning RWD with fCC, fourth one done for friends):
 | Project  | Created | Last Stable Version |   Vue-Updated |
 | -------- | ------- | ------- | ------- |
 | Survey  | 28 Jan 2025   | 30 Jan 2025   |  Not Yet |
